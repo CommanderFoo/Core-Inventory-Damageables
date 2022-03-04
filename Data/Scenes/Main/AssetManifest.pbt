@@ -1,4 +1,13 @@
 Assets {
+  Id: 17713444465506102327
+  Name: "Artificial Grass 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_grass_artificial_001_uv_ref"
+  }
+}
+Assets {
   Id: 16910278292812118833
   Name: "Sun Light"
   PlatformAssetType: 6
